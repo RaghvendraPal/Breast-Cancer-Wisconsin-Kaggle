@@ -25,8 +25,8 @@ An image can have various nuclei of Cancer,
 At the end DataSet having total features, from this data we need to classify whether a person have **Benign** or **Malignant** cancer.
 
 Repositary have 2 ipynb for the same dataset.
-1. Cancer.ipynb has all the analysis of data, data Vizualization, Model Creation step.
+1. Cancer.ipynb has all the analysis of data, data Vizualization, data cleaning, Model Creation step.
 
-2. Cancer_pca.ipynb having analysis of breast cancer dataset after doing [PCA Dimentionality Reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction) step.
+2. Cancer_pca.ipynb, i have used preprocessed data and applied [PCA Dimentionality Reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction) step.
 
 
