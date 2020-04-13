@@ -26,6 +26,8 @@ At the end DataSet having total features, from this data we need to classify whe
 
 Repositary have 2 ipynb for the same dataset.
 1. Cancer.ipynb has all the analysis of data, data Vizualization, data cleaning, Model Creation step.
+Check the following link :
+[BENIGN and MALIGNANT Breast Cancer Wisconsin Prediction](https://medium.com/@raghvendrapal/benign-and-malignant-breast-cancer-wisconsin-prediction-c88bd1ed898d)
 
 2. Cancer_pca.ipynb, i have used preprocessed data and applied [PCA Dimentionality Reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction) step.
 
