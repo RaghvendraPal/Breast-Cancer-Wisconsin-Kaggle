@@ -1,8 +1,8 @@
 # Breast Cancer Wisconsin (Diagnostic) Data Set
 
-DataSet has fllowing features :
+DataSet has the following features :
 
-1. radius (mean of distances from center to points on the perimeter)
+1. radius (mean of distances from the center to points on the perimeter)
 2. texture (standard deviation of gray-scale values)
 3. perimeter
 4. area
